@@ -1,0 +1,438 @@
+,first_name,last_name,middle_name,state_name,district,gender,bioguide_id,state,party,ahca
+AK-0,Don,Young,E.,Alaska,0,M,Y000033,AK,R,Yea
+AL-1,Bradley,Byrne,,Alabama,1,M,B001289,AL,R,Yea
+AL-2,Martha,Roby,,Alabama,2,F,R000591,AL,R,Yea
+AL-3,Mike,Rogers,,Alabama,3,M,R000575,AL,R,Yea
+AL-4,Robert,Aderholt,B.,Alabama,4,M,A000055,AL,R,Yea
+AL-5,Mo,Brooks,,Alabama,5,M,B001274,AL,R,Yea
+AL-6,Gary,Palmer,,Alabama,6,M,P000609,AL,R,Yea
+AL-7,Terri,Sewell,A.,Alabama,7,F,S001185,AL,D,Nay
+AR-1,Eric,Crawford,A.,Arkansas,1,M,C001087,AR,R,Yea
+AR-2,French,Hill,,Arkansas,2,M,H001072,AR,R,Yea
+AR-3,Steve,Womack,,Arkansas,3,M,W000809,AR,R,Yea
+AR-4,Bruce,Westerman,,Arkansas,4,M,W000821,AR,R,Yea
+AS-0,Aumua,Amata,,American Samoa,0,F,R000600,AS,R,
+AZ-1,Tom,O'Halleran,,Arizona,1,M,O000171,AZ,D,Nay
+AZ-2,Martha,McSally,,Arizona,2,F,M001197,AZ,R,Yea
+AZ-3,Raúl,Grijalva,M.,Arizona,3,M,G000551,AZ,D,Nay
+AZ-4,Paul,Gosar,A.,Arizona,4,M,G000565,AZ,R,Yea
+AZ-5,Andy,Biggs,,Arizona,5,M,B001302,AZ,R,Nay
+AZ-6,David,Schweikert,,Arizona,6,M,S001183,AZ,R,Yea
+AZ-7,Ruben,Gallego,,Arizona,7,M,G000574,AZ,D,Nay
+AZ-8,Trent,Franks,,Arizona,8,M,F000448,AZ,R,Yea
+AZ-9,Kyrsten,Sinema,,Arizona,9,F,S001191,AZ,D,Nay
+CA-1,Doug,LaMalfa,,California,1,M,L000578,CA,R,Yea
+CA-10,Jeff,Denham,,California,10,M,D000612,CA,R,Yea
+CA-11,Mark,DeSaulnier,,California,11,M,D000623,CA,D,Nay
+CA-12,Nancy,Pelosi,,California,12,F,P000197,CA,D,Nay
+CA-13,Barbara,Lee,,California,13,F,L000551,CA,D,Nay
+CA-14,Jackie,Speier,,California,14,F,S001175,CA,D,Nay
+CA-15,Eric,Swalwell,,California,15,M,S001193,CA,D,Nay
+CA-16,Jim,Costa,,California,16,M,C001059,CA,D,Nay
+CA-17,Ro,Khanna,,California,17,M,K000389,CA,D,Nay
+CA-18,Anna,Eshoo,G.,California,18,F,E000215,CA,D,Nay
+CA-19,Zoe,Lofgren,,California,19,F,L000397,CA,D,Nay
+CA-2,Jared,Huffman,,California,2,M,H001068,CA,D,Nay
+CA-20,Jimmy,Panetta,,California,20,M,P000613,CA,D,Nay
+CA-21,David,Valadao,G.,California,21,M,V000129,CA,R,Yea
+CA-22,Devin,Nunes,G.,California,22,M,N000181,CA,R,Yea
+CA-23,Kevin,McCarthy,,California,23,M,M001165,CA,R,Yea
+CA-24,Salud,Carbajal,,California,24,M,C001112,CA,D,Nay
+CA-25,Steve,Knight,,California,25,M,K000387,CA,R,Yea
+CA-26,Julia,Brownley,,California,26,F,B001285,CA,D,Nay
+CA-27,Judy,Chu,M.,California,27,F,C001080,CA,D,Nay
+CA-28,Adam,Schiff,B.,California,28,M,S001150,CA,D,Nay
+CA-29,Tony,Cárdenas,,California,29,M,C001097,CA,D,Nay
+CA-3,John,Garamendi,,California,3,M,G000559,CA,D,Nay
+CA-30,Brad,Sherman,J.,California,30,M,S000344,CA,D,Nay
+CA-31,Pete,Aguilar,,California,31,M,A000371,CA,D,Nay
+CA-32,Grace,Napolitano,F.,California,32,F,N000179,CA,D,Nay
+CA-33,Ted,Lieu,,California,33,M,L000582,CA,D,Nay
+CA-35,Norma,Torres,,California,35,F,T000474,CA,D,Nay
+CA-36,Raul,Ruiz,,California,36,M,R000599,CA,D,Nay
+CA-37,Karen,Bass,,California,37,F,B001270,CA,D,Nay
+CA-38,Linda,Sánchez,T.,California,38,F,S001156,CA,D,Nay
+CA-39,Edward,Royce,R.,California,39,M,R000487,CA,R,Yea
+CA-4,Tom,McClintock,,California,4,M,M001177,CA,R,Yea
+CA-40,Lucille,Roybal-Allard,,California,40,F,R000486,CA,D,Nay
+CA-41,Mark,Takano,,California,41,M,T000472,CA,D,Nay
+CA-42,Ken,Calvert,S.,California,42,M,C000059,CA,R,Yea
+CA-43,Maxine,Waters,,California,43,F,W000187,CA,D,Nay
+CA-44,Nanette,Barragán,,California,44,F,B001300,CA,D,Nay
+CA-45,Mimi,Walters,,California,45,F,W000820,CA,R,Yea
+CA-46,J.,Correa,Luis,California,46,M,C001110,CA,D,Nay
+CA-47,Alan,Lowenthal,S.,California,47,M,L000579,CA,D,Nay
+CA-48,Dana,Rohrabacher,T.,California,48,M,R000409,CA,R,Yea
+CA-49,Darrell,Issa,E.,California,49,M,I000056,CA,R,Yea
+CA-5,Mike,Thompson,Michael,California,5,M,T000460,CA,D,Nay
+CA-50,Duncan,Hunter,D.,California,50,M,H001048,CA,R,Yea
+CA-51,Juan,Vargas,,California,51,M,V000130,CA,D,Nay
+CA-52,Scott,Peters,H.,California,52,M,P000608,CA,D,Nay
+CA-53,Susan,Davis,A.,California,53,F,D000598,CA,D,Nay
+CA-6,Doris,Matsui,O.,California,6,F,M001163,CA,D,Nay
+CA-7,Ami,Bera,,California,7,M,B001287,CA,D,Nay
+CA-8,Paul,Cook,,California,8,M,C001094,CA,R,Yea
+CA-9,Jerry,McNerney,,California,9,M,M001166,CA,D,Nay
+CO-1,Diana,DeGette,L.,Colorado,1,F,D000197,CO,D,Nay
+CO-2,Jared,Polis,,Colorado,2,M,P000598,CO,D,Nay
+CO-3,Scott,Tipton,R.,Colorado,3,M,T000470,CO,R,Yea
+CO-4,Ken,Buck,,Colorado,4,M,B001297,CO,R,Yea
+CO-5,Doug,Lamborn,,Colorado,5,M,L000564,CO,R,Yea
+CO-6,Mike,Coffman,,Colorado,6,M,C001077,CO,R,Nay
+CO-7,Ed,Perlmutter,,Colorado,7,M,P000593,CO,D,Nay
+CT-1,John,Larson,B.,Connecticut,1,M,L000557,CT,D,Nay
+CT-2,Joe,Courtney,,Connecticut,2,M,C001069,CT,D,Nay
+CT-3,Rosa,DeLauro,L.,Connecticut,3,F,D000216,CT,D,Nay
+CT-4,James,Himes,A.,Connecticut,4,M,H001047,CT,D,Nay
+CT-5,Elizabeth,Esty,H.,Connecticut,5,F,E000293,CT,D,Nay
+DC-0,Eleanor,Norton,Holmes,District of Columbia,0,F,N000147,DC,D,
+DE-0,Lisa,Blunt Rochester,,Delaware,0,F,B001303,DE,D,Nay
+FL-1,Matt,Gaetz,,Florida,1,M,G000578,FL,R,Yea
+FL-10,Val,Demings,,Florida,10,F,D000627,FL,D,Nay
+FL-11,Daniel,Webster,,Florida,11,M,W000806,FL,R,Yea
+FL-12,Gus,Bilirakis,M.,Florida,12,M,B001257,FL,R,Yea
+FL-13,Charlie,Crist,,Florida,13,M,C001111,FL,D,Nay
+FL-14,Kathy,Castor,,Florida,14,F,C001066,FL,D,Nay
+FL-15,Dennis,Ross,A.,Florida,15,M,R000593,FL,R,Yea
+FL-16,Vern,Buchanan,,Florida,16,M,B001260,FL,R,Yea
+FL-17,Thomas,Rooney,J.,Florida,17,M,R000583,FL,R,Yea
+FL-18,Brian,Mast,,Florida,18,M,M001199,FL,R,Yea
+FL-19,Francis,Rooney,,Florida,19,M,R000607,FL,R,Yea
+FL-2,Neal,Dunn,,Florida,2,M,D000628,FL,R,Yea
+FL-20,Alcee,Hastings,L.,Florida,20,M,H000324,FL,D,Nay
+FL-21,Lois,Frankel,,Florida,21,F,F000462,FL,D,Nay
+FL-22,Theodore,Deutch,E.,Florida,22,M,D000610,FL,D,Nay
+FL-23,Debbie,Wasserman Schultz,,Florida,23,F,W000797,FL,D,Nay
+FL-24,Frederica,Wilson,S.,Florida,24,F,W000808,FL,D,Nay
+FL-25,Mario,Diaz-Balart,,Florida,25,M,D000600,FL,R,Yea
+FL-26,Carlos,Curbelo,,Florida,26,M,C001107,FL,R,Yea
+FL-27,Ileana,Ros-Lehtinen,,Florida,27,F,R000435,FL,R,Nay
+FL-3,Ted,Yoho,S.,Florida,3,M,Y000065,FL,R,Yea
+FL-4,John,Rutherford,,Florida,4,M,R000609,FL,R,Yea
+FL-5,Al,Lawson,,Florida,5,M,L000586,FL,D,Nay
+FL-6,Ron,DeSantis,,Florida,6,M,D000621,FL,R,Yea
+FL-7,Stephanie,Murphy,,Florida,7,F,M001202,FL,D,Nay
+FL-8,Bill,Posey,,Florida,8,M,P000599,FL,R,Yea
+FL-9,Darren,Soto,,Florida,9,M,S001200,FL,D,Nay
+GA-1,Buddy,Carter,,Georgia,1,M,C001103,GA,R,Yea
+GA-10,Jody,Hice,,Georgia,10,M,H001071,GA,R,Yea
+GA-11,Barry,Loudermilk,,Georgia,11,M,L000583,GA,R,Yea
+GA-12,Rick,Allen,,Georgia,12,M,A000372,GA,R,Yea
+GA-13,David,Scott,,Georgia,13,M,S001157,GA,D,Nay
+GA-14,Tom,Graves,,Georgia,14,M,G000560,GA,R,Yea
+GA-2,Sanford,Bishop,D.,Georgia,2,M,B000490,GA,D,Nay
+GA-3,A.,Ferguson,Drew,Georgia,3,M,F000465,GA,R,Yea
+GA-4,Henry,Johnson,C.,Georgia,4,M,J000288,GA,D,Nay
+GA-5,John,Lewis,R.,Georgia,5,M,L000287,GA,D,Nay
+GA-7,Rob,Woodall,,Georgia,7,M,W000810,GA,R,Yea
+GA-8,Austin,Scott,,Georgia,8,M,S001189,GA,R,Yea
+GA-9,Doug,Collins,,Georgia,9,M,C001093,GA,R,Yea
+GU-0,Madeleine,Bordallo,Z.,Guam,0,F,B001245,GU,D,
+HI-1,Colleen,Hanabusa,W.,Hawaii,1,F,H001050,HI,D,Nay
+HI-2,Tulsi,Gabbard,,Hawaii,2,F,G000571,HI,D,Nay
+IA-1,Rod,Blum,,Iowa,1,M,B001294,IA,R,Yea
+IA-2,David,Loebsack,,Iowa,2,M,L000565,IA,D,Nay
+IA-3,David,Young,,Iowa,3,M,Y000066,IA,R,Yea
+IA-4,Steve,King,A.,Iowa,4,M,K000362,IA,R,Yea
+ID-1,Raúl,Labrador,R.,Idaho,1,M,L000573,ID,R,Yea
+ID-2,Michael,Simpson,K.,Idaho,2,M,S001148,ID,R,Yea
+IL-1,Bobby,Rush,L.,Illinois,1,M,R000515,IL,D,Nay
+IL-10,Bradley,Schneider,S.,Illinois,10,M,S001190,IL,D,Nay
+IL-11,Bill,Foster,,Illinois,11,M,F000454,IL,D,Nay
+IL-12,Mike,Bost,,Illinois,12,M,B001295,IL,R,Yea
+IL-13,Rodney,Davis,,Illinois,13,M,D000619,IL,R,Yea
+IL-14,Randy,Hultgren,,Illinois,14,M,H001059,IL,R,Yea
+IL-15,John,Shimkus,M.,Illinois,15,M,S000364,IL,R,Yea
+IL-16,Adam,Kinzinger,,Illinois,16,M,K000378,IL,R,Yea
+IL-17,Cheri,Bustos,,Illinois,17,F,B001286,IL,D,Nay
+IL-18,Darin,LaHood,,Illinois,18,M,L000585,IL,R,Yea
+IL-2,Robin,Kelly,,Illinois,2,F,K000385,IL,D,Nay
+IL-3,Daniel,Lipinski,William,Illinois,3,M,L000563,IL,D,Nay
+IL-4,Luis,Gutiérrez,V.,Illinois,4,M,G000535,IL,D,Nay
+IL-5,Mike,Quigley,,Illinois,5,M,Q000023,IL,D,Nay
+IL-6,Peter,Roskam,J.,Illinois,6,M,R000580,IL,R,Yea
+IL-7,Danny,Davis,K.,Illinois,7,M,D000096,IL,D,Nay
+IL-8,Raja,Krishnamoorthi,,Illinois,8,M,K000391,IL,D,Nay
+IL-9,Janice,Schakowsky,D.,Illinois,9,F,S001145,IL,D,Nay
+IN-1,Peter,Visclosky,J.,Indiana,1,M,V000108,IN,D,Nay
+IN-2,Jackie,Walorski,,Indiana,2,F,W000813,IN,R,Yea
+IN-3,Jim,Banks,,Indiana,3,M,B001299,IN,R,Yea
+IN-4,Todd,Rokita,,Indiana,4,M,R000592,IN,R,Yea
+IN-5,Susan,Brooks,W.,Indiana,5,F,B001284,IN,R,Yea
+IN-6,Luke,Messer,,Indiana,6,M,M001189,IN,R,Yea
+IN-7,André,Carson,,Indiana,7,M,C001072,IN,D,Nay
+IN-8,Larry,Bucshon,,Indiana,8,M,B001275,IN,R,Yea
+IN-9,Trey,Hollingsworth,,Indiana,9,M,H001074,IN,R,Yea
+KS-1,Roger,Marshall,,Kansas,1,M,M001198,KS,R,Yea
+KS-2,Lynn,Jenkins,,Kansas,2,F,J000290,KS,R,Yea
+KS-3,Kevin,Yoder,,Kansas,3,M,Y000063,KS,R,Yea
+KS-4,Ron,Estes,,Kansas,4,M,E000298,KS,R,Yea
+KY-1,James,Comer,,Kentucky,1,M,C001108,KY,R,Yea
+KY-2,Brett,Guthrie,,Kentucky,2,M,G000558,KY,R,Yea
+KY-3,John,Yarmuth,A.,Kentucky,3,M,Y000062,KY,D,Nay
+KY-4,Thomas,Massie,,Kentucky,4,M,M001184,KY,R,Nay
+KY-5,Harold,Rogers,,Kentucky,5,M,R000395,KY,R,Yea
+KY-6,Garland,Barr,,Kentucky,6,M,B001282,KY,R,Yea
+LA-1,Steve,Scalise,Joseph,Louisiana,1,M,S001176,LA,R,Yea
+LA-2,Cedric,Richmond,L.,Louisiana,2,M,R000588,LA,D,Nay
+LA-3,Clay,Higgins,,Louisiana,3,M,H001077,LA,R,Yea
+LA-4,Mike,Johnson,,Louisiana,4,M,J000299,LA,R,Yea
+LA-5,Ralph,Abraham,,Louisiana,5,M,A000374,LA,R,Yea
+LA-6,Garret,Graves,,Louisiana,6,M,G000577,LA,R,Yea
+MA-1,Richard,Neal,E.,Massachusetts,1,M,N000015,MA,D,Nay
+MA-2,James,McGovern,P.,Massachusetts,2,M,M000312,MA,D,Nay
+MA-3,Niki,Tsongas,S.,Massachusetts,3,F,T000465,MA,D,Nay
+MA-4,Joseph,Kennedy,P.,Massachusetts,4,M,K000379,MA,D,Nay
+MA-5,Katherine,Clark,M.,Massachusetts,5,F,C001101,MA,D,Nay
+MA-6,Seth,Moulton,,Massachusetts,6,M,M001196,MA,D,Nay
+MA-7,Michael,Capuano,E.,Massachusetts,7,M,C001037,MA,D,Nay
+MA-8,Stephen,Lynch,F.,Massachusetts,8,M,L000562,MA,D,Nay
+MA-9,William,Keating,R.,Massachusetts,9,M,K000375,MA,D,Nay
+MD-1,Andy,Harris,,Maryland,1,M,H001052,MD,R,Yea
+MD-2,C.,Ruppersberger,A. Dutch,Maryland,2,M,R000576,MD,D,Nay
+MD-3,John,Sarbanes,P.,Maryland,3,M,S001168,MD,D,Nay
+MD-4,Anthony,Brown,,Maryland,4,M,B001304,MD,D,Nay
+MD-5,Steny,Hoyer,H.,Maryland,5,M,H000874,MD,D,Nay
+MD-6,John,Delaney,K.,Maryland,6,M,D000620,MD,D,Nay
+MD-7,Elijah,Cummings,E.,Maryland,7,M,C000984,MD,D,Nay
+MD-8,Jamie,Raskin,,Maryland,8,M,R000606,MD,D,Nay
+ME-1,Chellie,Pingree,,Maine,1,F,P000597,ME,D,Nay
+ME-2,Bruce,Poliquin,,Maine,2,M,P000611,ME,R,Yea
+MI-1,Jack,Bergman,,Michigan,1,M,B001301,MI,R,Yea
+MI-10,Paul,Mitchell,,Michigan,10,M,M001201,MI,R,Yea
+MI-11,Dave,Trott,,Michigan,11,M,T000475,MI,R,Yea
+MI-12,Debbie,Dingell,,Michigan,12,F,D000624,MI,D,Nay
+MI-13,John,Conyers,,Michigan,13,M,C000714,MI,D,Nay
+MI-14,Brenda,Lawrence,,Michigan,14,F,L000581,MI,D,Nay
+MI-2,Bill,Huizenga,,Michigan,2,M,H001058,MI,R,Yea
+MI-3,Justin,Amash,,Michigan,3,M,A000367,MI,R,Yea
+MI-4,John,Moolenaar,,Michigan,4,M,M001194,MI,R,Yea
+MI-5,Daniel,Kildee,T.,Michigan,5,M,K000380,MI,D,Nay
+MI-6,Fred,Upton,Stephen,Michigan,6,M,U000031,MI,R,Yea
+MI-7,Tim,Walberg,,Michigan,7,M,W000798,MI,R,Yea
+MI-8,Mike,Bishop,,Michigan,8,M,B001293,MI,R,Yea
+MI-9,Sander,Levin,M.,Michigan,9,M,L000263,MI,D,Nay
+MN-1,Timothy,Walz,James,Minnesota,1,M,W000799,MN,D,Nay
+MN-2,Jason,Lewis,,Minnesota,2,M,L000587,MN,R,Yea
+MN-3,Erik,Paulsen,,Minnesota,3,M,P000594,MN,R,Yea
+MN-4,Betty,McCollum,Louise,Minnesota,4,F,M001143,MN,D,Nay
+MN-5,Keith,Ellison,Maurice,Minnesota,5,M,E000288,MN,D,Nay
+MN-6,Tom,Emmer,,Minnesota,6,M,E000294,MN,R,Yea
+MN-7,Collin,Peterson,Clark,Minnesota,7,M,P000258,MN,D,Nay
+MN-8,Richard,Nolan,M.,Minnesota,8,M,N000127,MN,D,Nay
+MO-1,Wm.,Clay,Lacy,Missouri,1,M,C001049,MO,D,Nay
+MO-2,Ann,Wagner,,Missouri,2,F,W000812,MO,R,Yea
+MO-3,Blaine,Luetkemeyer,,Missouri,3,M,L000569,MO,R,Yea
+MO-4,Vicky,Hartzler,,Missouri,4,F,H001053,MO,R,Yea
+MO-5,Emanuel,Cleaver,,Missouri,5,M,C001061,MO,D,Nay
+MO-6,Sam,Graves,B.,Missouri,6,M,G000546,MO,R,Yea
+MO-7,Billy,Long,,Missouri,7,M,L000576,MO,R,Yea
+MO-8,Jason,Smith,T.,Missouri,8,M,S001195,MO,R,Yea
+MP-0,Gregorio,Sablan,Kilili Camacho,Northern Mariana Islands,0,M,S001177,MP,D,
+MS-1,Trent,Kelly,,Mississippi,1,M,K000388,MS,R,Yea
+MS-2,Bennie,Thompson,G.,Mississippi,2,M,T000193,MS,D,Nay
+MS-3,Gregg,Harper,,Mississippi,3,M,H001045,MS,R,Yea
+MS-4,Steven,Palazzo,M.,Mississippi,4,M,P000601,MS,R,Yea
+NC-1,George,Butterfield,Kenneth,North Carolina,1,M,B001251,NC,D,Nay
+NC-10,Patrick,McHenry,T.,North Carolina,10,M,M001156,NC,R,Yea
+NC-11,Mark,Meadows,,North Carolina,11,M,M001187,NC,R,Yea
+NC-12,Alma,Adams,,North Carolina,12,F,A000370,NC,D,Nay
+NC-13,Ted,Budd,,North Carolina,13,M,B001305,NC,R,Yea
+NC-2,George,Holding,,North Carolina,2,M,H001065,NC,R,Yea
+NC-3,Walter,Jones,B.,North Carolina,3,M,J000255,NC,R,Nay
+NC-4,David,Price,E.,North Carolina,4,M,P000523,NC,D,Nay
+NC-5,Virginia,Foxx,,North Carolina,5,F,F000450,NC,R,Yea
+NC-6,Mark,Walker,,North Carolina,6,M,W000819,NC,R,Yea
+NC-7,David,Rouzer,,North Carolina,7,M,R000603,NC,R,Yea
+NC-8,Richard,Hudson,,North Carolina,8,M,H001067,NC,R,Yea
+NC-9,Robert,Pittenger,,North Carolina,9,M,P000606,NC,R,Yea
+ND-0,Kevin,Cramer,,North Dakota,0,M,C001096,ND,R,Yea
+NE-1,Jeff,Fortenberry,Lane,Nebraska,1,M,F000449,NE,R,Yea
+NE-2,Don,Bacon,,Nebraska,2,M,B001298,NE,R,Yea
+NE-3,Adrian,Smith,,Nebraska,3,M,S001172,NE,R,Yea
+NH-1,Carol,Shea-Porter,,New Hampshire,1,F,S001170,NH,D,Nay
+NH-2,Ann,Kuster,M.,New Hampshire,2,F,K000382,NH,D,Nay
+NJ-1,Donald,Norcross,W.,New Jersey,1,M,N000188,NJ,D,Nay
+NJ-10,Donald,Payne,M.,New Jersey,10,M,P000604,NJ,D,Nay
+NJ-11,Rodney,Frelinghuysen,P.,New Jersey,11,M,F000372,NJ,R,Yea
+NJ-12,Bonnie,Watson Coleman,,New Jersey,12,F,W000822,NJ,D,Nay
+NJ-2,Frank,LoBiondo,A.,New Jersey,2,M,L000554,NJ,R,Nay
+NJ-3,Tom,MacArthur,,New Jersey,3,M,M001193,NJ,R,Yea
+NJ-4,Christopher,Smith,H.,New Jersey,4,M,S000522,NJ,R,Nay
+NJ-5,Josh,Gottheimer,,New Jersey,5,M,G000583,NJ,D,Nay
+NJ-6,Frank,Pallone,J.,New Jersey,6,M,P000034,NJ,D,Nay
+NJ-7,Leonard,Lance,,New Jersey,7,M,L000567,NJ,R,Nay
+NJ-8,Albio,Sires,,New Jersey,8,M,S001165,NJ,D,Nay
+NJ-9,Bill,Pascrell,J.,New Jersey,9,M,P000096,NJ,D,Nay
+NM-1,Michelle,Lujan Grisham,,New Mexico,1,F,L000580,NM,D,Nay
+NM-2,Stevan,Pearce,E.,New Mexico,2,M,P000588,NM,R,Yea
+NM-3,Ben,Luján,Ray,New Mexico,3,M,L000570,NM,D,Nay
+NV-1,Dina,Titus,,Nevada,1,F,T000468,NV,D,Nay
+NV-2,Mark,Amodei,E.,Nevada,2,M,A000369,NV,R,Yea
+NV-3,Jacky,Rosen,,Nevada,3,F,R000608,NV,D,Nay
+NV-4,Ruben,Kihuen,,Nevada,4,M,K000390,NV,D,Nay
+NY-1,Lee,Zeldin,,New York,1,M,Z000017,NY,R,Yea
+NY-10,Jerrold,Nadler,L.,New York,10,M,N000002,NY,D,Nay
+NY-11,Daniel,Donovan,M.,New York,11,M,D000625,NY,R,Nay
+NY-12,Carolyn,Maloney,B.,New York,12,F,M000087,NY,D,Nay
+NY-13,Adriano,Espaillat,,New York,13,M,E000297,NY,D,Nay
+NY-14,Joseph,Crowley,,New York,14,M,C001038,NY,D,Nay
+NY-15,José,Serrano,E.,New York,15,M,S000248,NY,D,Nay
+NY-16,Eliot,Engel,L.,New York,16,M,E000179,NY,D,Nay
+NY-17,Nita,Lowey,M.,New York,17,F,L000480,NY,D,Nay
+NY-18,Sean,Maloney,Patrick,New York,18,M,M001185,NY,D,Nay
+NY-19,John,Faso,,New York,19,M,F000464,NY,R,Yea
+NY-2,Peter,King,T.,New York,2,M,K000210,NY,R,Yea
+NY-20,Paul,Tonko,,New York,20,M,T000469,NY,D,Nay
+NY-21,Elise,Stefanik,,New York,21,F,S001196,NY,R,Yea
+NY-22,Claudia,Tenney,,New York,22,F,T000478,NY,R,Yea
+NY-23,Tom,Reed,W.,New York,23,M,R000585,NY,R,Yea
+NY-24,John,Katko,,New York,24,M,K000386,NY,R,Nay
+NY-25,Louise,Slaughter,McIntosh,New York,25,F,S000480,NY,D,Nay
+NY-26,Brian,Higgins,M.,New York,26,M,H001038,NY,D,Nay
+NY-27,Chris,Collins,,New York,27,M,C001092,NY,R,Yea
+NY-3,Thomas,Suozzi,,New York,3,M,S001201,NY,D,Nay
+NY-4,Kathleen,Rice,,New York,4,F,R000602,NY,D,Nay
+NY-5,Gregory,Meeks,W.,New York,5,M,M001137,NY,D,Nay
+NY-6,Grace,Meng,,New York,6,F,M001188,NY,D,Nay
+NY-7,Nydia,Velázquez,M.,New York,7,F,V000081,NY,D,Nay
+NY-8,Hakeem,Jeffries,S.,New York,8,M,J000294,NY,D,Nay
+NY-9,Yvette,Clarke,D.,New York,9,F,C001067,NY,D,Nay
+OH-1,Steve,Chabot,J.,Ohio,1,M,C000266,OH,R,Yea
+OH-10,Michael,Turner,R.,Ohio,10,M,T000463,OH,R,Nay
+OH-11,Marcia,Fudge,L.,Ohio,11,F,F000455,OH,D,Nay
+OH-12,Patrick,Tiberi,J.,Ohio,12,M,T000462,OH,R,Yea
+OH-13,Tim,Ryan,J.,Ohio,13,M,R000577,OH,D,Nay
+OH-14,David,Joyce,P.,Ohio,14,M,J000295,OH,R,Nay
+OH-15,Steve,Stivers,,Ohio,15,M,S001187,OH,R,Yea
+OH-16,James,Renacci,B.,Ohio,16,M,R000586,OH,R,Yea
+OH-2,Brad,Wenstrup,R.,Ohio,2,M,W000815,OH,R,Yea
+OH-3,Joyce,Beatty,,Ohio,3,F,B001281,OH,D,Nay
+OH-4,Jim,Jordan,,Ohio,4,M,J000289,OH,R,Yea
+OH-5,Robert,Latta,E.,Ohio,5,M,L000566,OH,R,Yea
+OH-6,Bill,Johnson,,Ohio,6,M,J000292,OH,R,Yea
+OH-7,Bob,Gibbs,,Ohio,7,M,G000563,OH,R,Yea
+OH-8,Warren,Davidson,,Ohio,8,M,D000626,OH,R,Yea
+OH-9,Marcy,Kaptur,,Ohio,9,F,K000009,OH,D,Nay
+OK-1,Jim,Bridenstine,,Oklahoma,1,M,B001283,OK,R,Yea
+OK-2,Markwayne,Mullin,,Oklahoma,2,M,M001190,OK,R,Yea
+OK-3,Frank,Lucas,D.,Oklahoma,3,M,L000491,OK,R,Yea
+OK-4,Tom,Cole,,Oklahoma,4,M,C001053,OK,R,Yea
+OK-5,Steve,Russell,,Oklahoma,5,M,R000604,OK,R,Yea
+OR-1,Suzanne,Bonamici,,Oregon,1,F,B001278,OR,D,Nay
+OR-2,Greg,Walden,P.,Oregon,2,M,W000791,OR,R,Yea
+OR-3,Earl,Blumenauer,,Oregon,3,M,B000574,OR,D,Nay
+OR-4,Peter,DeFazio,A.,Oregon,4,M,D000191,OR,D,Nay
+OR-5,Kurt,Schrader,,Oregon,5,M,S001180,OR,D,Nay
+PA-1,Robert,Brady,Alan,Pennsylvania,1,M,B001227,PA,D,Nay
+PA-10,Tom,Marino,,Pennsylvania,10,M,M001179,PA,R,Yea
+PA-11,Lou,Barletta,,Pennsylvania,11,M,B001269,PA,R,Yea
+PA-12,Keith,Rothfus,J.,Pennsylvania,12,M,R000598,PA,R,Yea
+PA-13,Brendan,Boyle,,Pennsylvania,13,M,B001296,PA,D,Nay
+PA-14,Michael,Doyle,F.,Pennsylvania,14,M,D000482,PA,D,Nay
+PA-15,Charles,Dent,W.,Pennsylvania,15,M,D000604,PA,R,Nay
+PA-16,Lloyd,Smucker,,Pennsylvania,16,M,S001199,PA,R,Yea
+PA-17,Matthew,Cartwright,A.,Pennsylvania,17,M,C001090,PA,D,Nay
+PA-18,Tim,Murphy,,Pennsylvania,18,M,M001151,PA,R,Yea
+PA-2,Dwight,Evans,,Pennsylvania,2,M,E000296,PA,D,Nay
+PA-3,Mike,Kelly,,Pennsylvania,3,M,K000376,PA,R,Yea
+PA-4,Scott,Perry,,Pennsylvania,4,M,P000605,PA,R,Yea
+PA-5,Glenn,Thompson,,Pennsylvania,5,M,T000467,PA,R,Yea
+PA-6,Ryan,Costello,,Pennsylvania,6,M,C001106,PA,R,Nay
+PA-7,Patrick,Meehan,,Pennsylvania,7,M,M001181,PA,R,Nay
+PA-8,Brian,Fitzpatrick,,Pennsylvania,8,M,F000466,PA,R,Nay
+PA-9,Bill,Shuster,,Pennsylvania,9,M,S001154,PA,R,Yea
+PR-0,Jenniffer,González-Colón,,Puerto Rico,0,F,G000582,PR,R,
+RI-1,David,Cicilline,N.,Rhode Island,1,M,C001084,RI,D,Nay
+RI-2,James,Langevin,R.,Rhode Island,2,M,L000559,RI,D,Nay
+SC-1,Marshall,Sanford,,South Carolina,1,M,S000051,SC,R,Yea
+SC-2,Joe,Wilson,G.,South Carolina,2,M,W000795,SC,R,Yea
+SC-3,Jeff,Duncan,,South Carolina,3,M,D000615,SC,R,Yea
+SC-4,Trey,Gowdy,,South Carolina,4,M,G000566,SC,R,Yea
+SC-6,James,Clyburn,E.,South Carolina,6,M,C000537,SC,D,Nay
+SC-7,Tom,Rice,,South Carolina,7,M,R000597,SC,R,Yea
+SD-0,Kristi,Noem,L.,South Dakota,0,F,N000184,SD,R,Yea
+TN-1,David,Roe,P.,Tennessee,1,M,R000582,TN,R,Yea
+TN-2,John,Duncan,J.,Tennessee,2,M,D000533,TN,R,Yea
+TN-3,Charles,Fleischmann,J.,Tennessee,3,M,F000459,TN,R,Yea
+TN-4,Scott,DesJarlais,,Tennessee,4,M,D000616,TN,R,Yea
+TN-5,Jim,Cooper,,Tennessee,5,M,C000754,TN,D,Nay
+TN-6,Diane,Black,,Tennessee,6,F,B001273,TN,R,Yea
+TN-7,Marsha,Blackburn,W.,Tennessee,7,F,B001243,TN,R,Yea
+TN-8,David,Kustoff,,Tennessee,8,M,K000392,TN,R,Yea
+TN-9,Steve,Cohen,,Tennessee,9,M,C001068,TN,D,Nay
+TX-1,Louie,Gohmert,B.,Texas,1,M,G000552,TX,R,Yea
+TX-10,Michael,McCaul,T.,Texas,10,M,M001157,TX,R,Yea
+TX-11,K.,Conaway,Michael,Texas,11,M,C001062,TX,R,Yea
+TX-12,Kay,Granger,,Texas,12,F,G000377,TX,R,Yea
+TX-13,Mac,Thornberry,M.,Texas,13,M,T000238,TX,R,Yea
+TX-14,Randy,Weber,K.,Texas,14,M,W000814,TX,R,Yea
+TX-15,Vicente,Gonzalez,,Texas,15,M,G000581,TX,D,Nay
+TX-16,Beto,O'Rourke,,Texas,16,M,O000170,TX,D,Nay
+TX-17,Bill,Flores,,Texas,17,M,F000461,TX,R,Yea
+TX-18,Sheila,Jackson Lee,,Texas,18,F,J000032,TX,D,Nay
+TX-19,Jodey,Arrington,,Texas,19,M,A000375,TX,R,Yea
+TX-2,Ted,Poe,,Texas,2,M,P000592,TX,R,Yea
+TX-20,Joaquin,Castro,,Texas,20,M,C001091,TX,D,Nay
+TX-21,Lamar,Smith,S.,Texas,21,M,S000583,TX,R,Yea
+TX-22,Pete,Olson,,Texas,22,M,O000168,TX,R,Yea
+TX-23,Will,Hurd,,Texas,23,M,H001073,TX,R,Nay
+TX-24,Kenny,Marchant,Ewell,Texas,24,M,M001158,TX,R,Yea
+TX-25,Roger,Williams,,Texas,25,M,W000816,TX,R,Yea
+TX-26,Michael,Burgess,C.,Texas,26,M,B001248,TX,R,Yea
+TX-27,Blake,Farenthold,,Texas,27,M,F000460,TX,R,Yea
+TX-28,Henry,Cuellar,,Texas,28,M,C001063,TX,D,Nay
+TX-29,Gene,Green,Eugene,Texas,29,M,G000410,TX,D,Nay
+TX-3,Sam,Johnson,Robert,Texas,3,M,J000174,TX,R,Yea
+TX-30,Eddie,Johnson,Bernice,Texas,30,F,J000126,TX,D,Nay
+TX-31,John,Carter,R.,Texas,31,M,C001051,TX,R,Yea
+TX-32,Pete,Sessions,A.,Texas,32,M,S000250,TX,R,Yea
+TX-33,Marc,Veasey,A.,Texas,33,M,V000131,TX,D,Nay
+TX-34,Filemon,Vela,,Texas,34,M,V000132,TX,D,Nay
+TX-35,Lloyd,Doggett,A.,Texas,35,M,D000399,TX,D,Nay
+TX-36,Brian,Babin,,Texas,36,M,B001291,TX,R,Yea
+TX-4,John,Ratcliffe,,Texas,4,M,R000601,TX,R,Yea
+TX-5,Jeb,Hensarling,,Texas,5,M,H001036,TX,R,Yea
+TX-6,Joe,Barton,Linus,Texas,6,M,B000213,TX,R,Yea
+TX-7,John,Culberson,Abney,Texas,7,M,C001048,TX,R,Yea
+TX-8,Kevin,Brady,P.,Texas,8,M,B000755,TX,R,Yea
+TX-9,Al,Green,,Texas,9,M,G000553,TX,D,Nay
+UT-1,Rob,Bishop,,Utah,1,M,B001250,UT,R,Yea
+UT-2,Chris,Stewart,,Utah,2,M,S001192,UT,R,Yea
+UT-3,Jason,Chaffetz,,Utah,3,M,C001076,UT,R,Yea
+UT-4,Mia,Love,,Utah,4,F,L000584,UT,R,Yea
+VA-1,Robert,Wittman,J.,Virginia,1,M,W000804,VA,R,Yea
+VA-10,Barbara,Comstock,,Virginia,10,F,C001105,VA,R,Nay
+VA-11,Gerald,Connolly,E.,Virginia,11,M,C001078,VA,D,Nay
+VA-2,Scott,Taylor,,Virginia,2,M,T000477,VA,R,Yea
+VA-3,Robert,Scott,C.,Virginia,3,M,S000185,VA,D,Nay
+VA-4,A.,McEachin,Donald,Virginia,4,M,M001200,VA,D,Nay
+VA-5,Thomas,Garrett,,Virginia,5,M,G000580,VA,R,Yea
+VA-6,Bob,Goodlatte,W.,Virginia,6,M,G000289,VA,R,Yea
+VA-7,David,Brat,Alan,Virginia,7,M,B001290,VA,R,Yea
+VA-8,Donald,Beyer,,Virginia,8,M,B001292,VA,D,Nay
+VA-9,H.,Griffith,Morgan,Virginia,9,M,G000568,VA,R,Yea
+VI-0,Stacey,Plaskett,,US Virgin Islands,0,F,P000610,VI,D,
+VT-0,Peter,Welch,,Vermont,0,M,W000800,VT,D,Nay
+WA-1,Suzan,DelBene,K.,Washington,1,F,D000617,WA,D,Nay
+WA-10,Denny,Heck,,Washington,10,M,H001064,WA,D,Nay
+WA-2,Rick,Larsen,,Washington,2,M,L000560,WA,D,Nay
+WA-3,Jaime,Herrera Beutler,,Washington,3,F,H001056,WA,R,Nay
+WA-4,Dan,Newhouse,,Washington,4,M,N000189,WA,R,Not Voting
+WA-5,Cathy,McMorris Rodgers,,Washington,5,F,M001159,WA,R,Yea
+WA-6,Derek,Kilmer,,Washington,6,M,K000381,WA,D,Nay
+WA-7,Pramila,Jayapal,,Washington,7,F,J000298,WA,D,Nay
+WA-8,David,Reichert,G.,Washington,8,M,R000578,WA,R,Nay
+WA-9,Adam,Smith,,Washington,9,M,S000510,WA,D,Nay
+WI-1,Paul,Ryan,D.,Wisconsin,1,M,R000570,WI,R,Yea
+WI-2,Mark,Pocan,,Wisconsin,2,M,P000607,WI,D,Nay
+WI-3,Ron,Kind,James,Wisconsin,3,M,K000188,WI,D,Nay
+WI-4,Gwen,Moore,,Wisconsin,4,F,M001160,WI,D,Nay
+WI-5,F.,Sensenbrenner,James,Wisconsin,5,M,S000244,WI,R,Yea
+WI-6,Glenn,Grothman,,Wisconsin,6,M,G000576,WI,R,Yea
+WI-7,Sean,Duffy,P.,Wisconsin,7,M,D000614,WI,R,Yea
+WI-8,Mike,Gallagher,,Wisconsin,8,M,G000579,WI,R,Yea
+WV-1,David,McKinley,B.,West Virginia,1,M,M001180,WV,R,Yea
+WV-2,Alex,Mooney,,West Virginia,2,M,M001195,WV,R,Yea
+WV-3,Evan,Jenkins,,West Virginia,3,M,J000297,WV,R,Yea
+WY-0,Liz,Cheney,,Wyoming,0,F,C001109,WY,R,Yea
